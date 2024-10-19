@@ -1,6 +1,3 @@
-# industrial-programming-technologies
-Repository for materials on the discipline "Industrial programming technologies"
-
 В данном репозитории размещаются материалы, используемые при проведении занятий по дисциплине "Технологии индустриального программирования".
 
 Автор: Рустам Уралович Астафьев
